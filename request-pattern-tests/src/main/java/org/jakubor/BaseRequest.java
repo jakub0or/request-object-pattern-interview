@@ -1,4 +1,4 @@
-package org.my.way;
+package org.jakubor;
 
 import io.restassured.response.Response;
 

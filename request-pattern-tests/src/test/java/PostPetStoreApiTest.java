@@ -1,9 +1,9 @@
 import io.swagger.client.model.Pet;
-import org.my.way.PostPetStoreApiRequest;
+import org.jakubor.PostPetStoreApiRequest;
 import org.testng.annotations.Test;
 
 import static org.assertj.core.api.Assertions.assertThat;
-import static org.my.way.util.DefaultDataUtil.getDefaultPet;
+import static org.jakubor.util.DefaultDataUtil.getDefaultPet;
 
 
 public class PostPetStoreApiTest extends BaseTest {

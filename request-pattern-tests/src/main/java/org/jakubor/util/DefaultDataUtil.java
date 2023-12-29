@@ -1,4 +1,4 @@
-package org.my.way.util;
+package org.jakubor.util;
 
 import io.swagger.client.model.Category;
 import io.swagger.client.model.Pet;
